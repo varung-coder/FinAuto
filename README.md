@@ -2,7 +2,8 @@
 
 FinAuto is a next-generation personal finance platform designed to automate and simplify your money management. Built with a modern dark-glassmorphism UI, it tracks budgets, manages savings goals, and delivers AI-powered financial insights. 
 
-Created for Hackathon excellence.
+## LIVE DEMO ##
+https://fin-auto.vercel.app/
 
 ## 🌟 Core Features
 
@@ -66,4 +67,4 @@ You can then deploy the `dist` folder to platforms like Vercel, Netlify, or Fire
 
 ## 📝 License
 
-This project is open-source and created with ❤️ by G VARUN 
+This project is open-source and built with ❤️ by G VARUN 
